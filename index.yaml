@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helloworld:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-08-18T18:39:01.8891966-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 8e60aa1e3466f0234f74c3186ca6b12a3d9ff642c1b81b02f620e91da0ba7dc7
+    name: helloworld
+    type: application
+    urls:
+    - https://github.com/mobileagent18/helm-example/tree/gh-page/helloworld-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-08-18T18:39:01.8862008-05:00"
